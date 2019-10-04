@@ -1,3 +1,11 @@
+# React WebExtension Example
+
+Blog post: [Create React WebExtension for Firefox and Chrome](https://guoyunhe.me/en/2019/10/04/create-react-webextension-for-firefox-and-chrome/)
+
+![Screenshot](screenshot.png)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
