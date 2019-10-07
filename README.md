@@ -1,6 +1,6 @@
 # React WebExtension Example
 
-Blog post: [Create React WebExtension for Firefox and Chrome](https://guoyunhe.me/en/2019/10/04/create-react-webextension-for-firefox-and-chrome/)
+Blog post: [Create React WebExtension for Firefox and Chrome](https://guoyunhe.me/en/2019/10/05/create-react-webextension-for-firefox-and-chrome/)
 
 ![Screenshot](screenshot.png)
 
